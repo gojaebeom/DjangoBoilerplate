@@ -1,0 +1,10 @@
+# PYTHON DJANGO GITIGNORE 🎨
+
+# python vertural environment ⚙
+venv
+# django cache file 📜
+__pycache__
+# environment file (secret settings)
+.env
+# django default database 
+db.sqlite3
